@@ -4,3 +4,4 @@
 -Second script lists all files in directory.
 -Third script returns home.
 -Fourth script lists all files in long form.
+-Fifth script lists all files and folders, including hidden, in long form.
