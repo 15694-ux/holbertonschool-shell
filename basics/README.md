@@ -5,3 +5,4 @@
 -Third script returns home.
 -Fourth script lists all files in long form.
 -Fifth script lists all files and folders, including hidden, in long form.
+-Sixth script lists all files and folders using digits only.
