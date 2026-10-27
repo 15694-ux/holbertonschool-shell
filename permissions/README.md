@@ -7,3 +7,4 @@
 -Sixth script changes permissions for multiple users.
 -Seventh script adds execute permissions for all users.
 -Eighth script sets owner and group permissions to 0 and all other user permissions to 7.
+-Ninth script alters permissions.
