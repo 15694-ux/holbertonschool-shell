@@ -16,3 +16,4 @@
 -Fourteenth update adds a symbolic link to ls in the /bin/ directory.
 -Fifteenth update moves files from one directory to another with strict rules.
 -Sixteenth update deletes all files with the symbol ~ from current working directory.
+-Seventeenth update creates a folder tree of /welcome/to/school/.
