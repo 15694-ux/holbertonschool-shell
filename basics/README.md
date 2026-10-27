@@ -14,3 +14,4 @@
 -Twelvfth script prints specified directories.
 -Thirteenth script prints targeted file.
 -Fourteenth update adds a symbolic link to ls in the /bin/ directory.
+-Fifteenth update moves files from one directory to another with strict rules.
