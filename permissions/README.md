@@ -5,3 +5,4 @@
 -Fourth script creates an empty file.
 -Fifth script changes permissions of the file owner.
 -Sixth script changes permissions for multiple users.
+-Seventh script adds execute permissions for all users.
