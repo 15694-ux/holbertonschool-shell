@@ -11,3 +11,4 @@
 -Ninth script deletes a file from a selected directory.
 -Tenth script deletes targeted directory
 -Eleventh script adds command to go back one directory.
+-Twelvfth script prints specified directories.
