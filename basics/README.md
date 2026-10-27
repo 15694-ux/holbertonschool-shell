@@ -13,3 +13,4 @@
 -Eleventh script adds command to go back one directory.
 -Twelvfth script prints specified directories.
 -Thirteenth script prints targeted file.
+-Fourteenth update adds a symbolic link to ls in the /bin/ directory.
