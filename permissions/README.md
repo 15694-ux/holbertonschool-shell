@@ -2,3 +2,5 @@
 -First script adds a switch user command.
 -Second script adds a whoami print.
 -Third script prints which groups the current user belongs to.
+-Fourth script creates an empty file.
+-Fifth script changes permissions of the file owner.
