@@ -9,3 +9,4 @@
 -Eighth script sets owner and group permissions to 0 and all other user permissions to 7.
 -Ninth script alters permissions.
 -Tenth script references a source file for permissions on a target file.
+-Eleventh script adds recursive permissions to directiories without changing file permissions.
