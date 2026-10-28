@@ -5,3 +5,4 @@
 -Third script prints contents of specific directory\n
 -Fourth script prints contents of two specific directories together\n
 -Fifth script prints specified line count from specified directory\n
+-Sixth code prints specified line count from specified directory\n
