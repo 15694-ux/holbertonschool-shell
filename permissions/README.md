@@ -14,3 +14,4 @@
 -Thirteenth script changes file ownership.
 -Fourteenth script changes owner and group permissions.
 -Fifteenth script involves symbolic links.
+-Changes ownership if parameters are met.
