@@ -11,3 +11,4 @@
 -Ninth script will write/overwrite a file with ls commands\n
 -Tenth script will duplicate the final line of a file\n
 -Eleventh script with delete all files with specified extensions\n
+-Twelvfth script will count directories and print it in bash\n
