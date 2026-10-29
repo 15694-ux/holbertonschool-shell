@@ -21,3 +21,4 @@
 -Nineteenth script will replace all specified characters with the specified replacement characters\n
 -Twentieth script will remove specified characters from inputs\n
 -Twenty First script wwill reverse the input\n
+-Twenty Second script will print all users and their home directories\n
