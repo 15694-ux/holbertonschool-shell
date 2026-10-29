@@ -1,2 +1,2 @@
 #!/bin/bash
-vim -c '$t$' -c "wq" iacta
+tail -n 1 iacta >> iacta
