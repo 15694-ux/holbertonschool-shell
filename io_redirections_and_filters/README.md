@@ -17,3 +17,4 @@
 -Fifteenth script will display lines from specified directory\n
 -Sixteenth script will give a count for specified keyword in a directory\n
 -Seventeenth script will display lines with a keyword and the following three lines\n
+-Eighteenth script will display all lines of a file starting with a letter\n
