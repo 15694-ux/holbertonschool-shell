@@ -18,3 +18,4 @@
 -Sixteenth script will give a count for specified keyword in a directory\n
 -Seventeenth script will display lines with a keyword and the following three lines\n
 -Eighteenth script will display all lines of a file starting with a letter\n
+-Nineteenth script will replace all specified characters with the specified replacement characters\n
