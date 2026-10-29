@@ -7,3 +7,4 @@
 -Fifth script prints specified line count from specified directory\n
 -Sixth script prints specified line count from specified directory\n
 -Seventh script will read a specified line from a specified file\n
+-Eighth script will create a file and write into it in the same execution\n
