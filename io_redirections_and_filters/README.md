@@ -10,3 +10,4 @@
 -Eighth script will create a file and write into it in the same execution\n
 -Ninth script will write/overwrite a file with ls commands\n
 -Tenth script will duplicate the final line of a file\n
+-Eleventh script with delete all files with specified extensions\n
