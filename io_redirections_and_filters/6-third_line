@@ -1,2 +1,2 @@
 #!/bin/bash
-vim -es +3p +q iacta
+ex +3p -scq iacta
