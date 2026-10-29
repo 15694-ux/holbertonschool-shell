@@ -6,4 +6,5 @@
 -Script four will print the folder count of the target directory\n
 -Script five will print a list of environmental variables\n
 -Script six will print local, and gloval variables as well as functions\n
+-Script seven will create a new variable\n
 
