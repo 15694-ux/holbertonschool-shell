@@ -10,4 +10,5 @@
 -Script eight will export a value and combine it to print the result\n
 -script nine will print the result of one variable divided by another\n
 -Script ten will print variable 1 to the power of variable 2\n
-
+-Script eleven will convert a number from base 1 to base 10\n
+:wq
