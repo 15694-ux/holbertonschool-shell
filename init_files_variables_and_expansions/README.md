@@ -7,4 +7,6 @@
 -Script five will print a list of environmental variables\n
 -Script six will print local, and global variables as well as functions\n
 -Script seven will create a new variable\n
+-Script eight will print a result with the value stored in an environmental variable followed by a new line\n
+
 
